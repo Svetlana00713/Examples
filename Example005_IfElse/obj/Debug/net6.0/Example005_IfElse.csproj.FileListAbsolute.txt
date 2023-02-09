@@ -1,0 +1,15 @@
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.csproj.AssemblyReference.cache
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.AssemblyInfoInputs.cache
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.AssemblyInfo.cs
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.csproj.CoreCompileInputs.cache
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.exe
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.deps.json
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.runtimeconfig.json
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.dll
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\bin\Debug\net6.0\Example005_IfElse.pdb
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.dll
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\refint\Example005_IfElse.dll
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.pdb
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\Example005_IfElse.genruntimeconfig.cache
+D:\svetlana\Рабочий стол\Examples\Example005_IfElse\obj\Debug\net6.0\ref\Example005_IfElse.dll
