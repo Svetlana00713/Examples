@@ -1,0 +1,15 @@
+D:\svetlana\Рабочий стол\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+D:\svetlana\Рабочий стол\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+D:\svetlana\Рабочий стол\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+D:\svetlana\Рабочий стол\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+D:\svetlana\Рабочий стол\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\refint\Example004_Div.dll
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
+D:\svetlana\Рабочий стол\Examples\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
