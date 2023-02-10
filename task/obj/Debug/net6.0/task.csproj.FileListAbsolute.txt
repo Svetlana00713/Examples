@@ -1,0 +1,15 @@
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\svetlana\Рабочий стол\C#2\task\bin\Debug\net6.0\task.exe
+D:\svetlana\Рабочий стол\C#2\task\bin\Debug\net6.0\task.deps.json
+D:\svetlana\Рабочий стол\C#2\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\svetlana\Рабочий стол\C#2\task\bin\Debug\net6.0\task.dll
+D:\svetlana\Рабочий стол\C#2\task\bin\Debug\net6.0\task.pdb
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.dll
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\refint\task.dll
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.pdb
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\svetlana\Рабочий стол\C#2\task\obj\Debug\net6.0\ref\task.dll
