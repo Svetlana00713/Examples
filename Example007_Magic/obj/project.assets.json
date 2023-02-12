@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\svetlana\\Рабочий стол\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+      "projectUniqueName": "D:\\svetlana\\Рабочий стол\\GB\\Examples\\Example007_Magic\\Example007_Magic.csproj",
       "projectName": "Example007_Magic",
-      "projectPath": "D:\\svetlana\\Рабочий стол\\Examples\\Example007_Magic\\Example007_Magic.csproj",
+      "projectPath": "D:\\svetlana\\Рабочий стол\\GB\\Examples\\Example007_Magic\\Example007_Magic.csproj",
       "packagesPath": "C:\\Users\\svetlana\\.nuget\\packages\\",
-      "outputPath": "D:\\svetlana\\Рабочий стол\\Examples\\Example007_Magic\\obj\\",
+      "outputPath": "D:\\svetlana\\Рабочий стол\\GB\\Examples\\Example007_Magic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\svetlana\\AppData\\Roaming\\NuGet\\NuGet.Config"
