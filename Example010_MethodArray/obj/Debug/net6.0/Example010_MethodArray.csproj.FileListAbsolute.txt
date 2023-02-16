@@ -1,0 +1,15 @@
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.AssemblyReference.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfoInputs.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.AssemblyInfo.cs
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.csproj.CoreCompileInputs.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.exe
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.deps.json
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.runtimeconfig.json
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.dll
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\bin\Debug\net6.0\Example010_MethodArray.pdb
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.dll
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\refint\Example010_MethodArray.dll
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.pdb
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\Example010_MethodArray.genruntimeconfig.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example010_MethodArray\obj\Debug\net6.0\ref\Example010_MethodArray.dll

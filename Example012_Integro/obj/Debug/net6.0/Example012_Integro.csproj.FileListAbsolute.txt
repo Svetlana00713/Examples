@@ -1,0 +1,15 @@
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\bin\Debug\net6.0\Example012_Integro.exe
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\bin\Debug\net6.0\Example012_Integro.deps.json
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\bin\Debug\net6.0\Example012_Integro.runtimeconfig.json
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\bin\Debug\net6.0\Example012_Integro.dll
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\bin\Debug\net6.0\Example012_Integro.pdb
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.csproj.AssemblyReference.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.GeneratedMSBuildEditorConfig.editorconfig
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.AssemblyInfoInputs.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.AssemblyInfo.cs
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.csproj.CoreCompileInputs.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.dll
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\refint\Example012_Integro.dll
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.pdb
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\Example012_Integro.genruntimeconfig.cache
+D:\svetlana\Рабочий стол\GB\Examples\Example012_Integro\obj\Debug\net6.0\ref\Example012_Integro.dll
